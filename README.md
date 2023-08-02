@@ -1,2 +1,3 @@
 # bikcraft
- site Bikcraft - Bicicletas Elétricas
+Site Bikcraft - Bicicletas Elétricas
+https://jacksonks.github.io/bikcraft/
